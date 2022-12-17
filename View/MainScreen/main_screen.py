@@ -10,6 +10,7 @@ class MainScreenView(BaseScreenView):
         """
 
     def enter(self):
-        import pdb
-        pdb.set_trace()
-        self.manager_screens.current='mainapp screen'
+        # import pdb
+        # pdb.set_trace()
+        # self.manager_screens.current='mainapp screen'
+        pass
